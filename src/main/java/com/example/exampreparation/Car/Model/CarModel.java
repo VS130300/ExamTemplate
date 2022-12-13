@@ -1,4 +1,4 @@
-package com.example.exampreparation.Activity.Model;
+package com.example.exampreparation.Car.Model;
 
 
 import com.example.exampreparation.Reservation.Model.ReservationModel;
@@ -7,7 +7,6 @@ import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;
 
-import java.lang.reflect.Member;
 import java.util.List;
 
 @Entity
