@@ -17,7 +17,7 @@ import java.util.HashMap;
 @CrossOrigin
 @Getter
 @Setter
-@RequestMapping(value = "/")
+@RequestMapping(value = "/carbooking")
 public class ReservationController
 {
     @PostMapping("/carbooking")
